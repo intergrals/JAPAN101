@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.9)  12 MAY 2018 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.9)  28 MAY 2018 16:29
 entering extended mode
 **"./japan101 - Lecture 2.tex"
 ("japan101 - Lecture 2.tex"
@@ -789,38 +789,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--39
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 49.
 ("C:\Users\Leo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
 
  []
 
@@ -830,12 +830,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
@@ -843,19 +848,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
 {C:/Users/Leo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
@@ -865,7 +865,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
@@ -884,7 +889,7 @@ fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Leo/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Leo/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Leo/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "japan101 - Lecture 2.pdf" (2 pages, 54970 bytes).
+Output written on "japan101 - Lecture 2.pdf" (2 pages, 55001 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
