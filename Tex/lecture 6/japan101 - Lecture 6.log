@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.9)  8 JUN 2018 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.9)  22 JUN 2018 16:06
 entering extended mode
 **"./japan101 - Lecture 6.tex"
 ("japan101 - Lecture 6.tex"
@@ -1105,10 +1105,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 16675 strings out of 493333
- 305594 string characters out of 3131012
+ 16677 strings out of 493333
+ 305620 string characters out of 3131012
  379489 words of memory out of 3000000
- 19881 multiletter control sequences out of 15000+200000
+ 19883 multiletter control sequences out of 15000+200000
  11657 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,6n,73p,848b,1003s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1119,9 +1119,9 @@ trics\cyberb\dpi600\cyberb30.pk>{C:/Users/Leo/AppData/Local/Programs/MiKTeX 2.9
 nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Leo/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Leo/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "japan101 - Lecture 6.pdf" (2 pages, 70501 bytes).
+Output written on "japan101 - Lecture 6.pdf" (2 pages, 70863 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
